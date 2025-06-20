@@ -227,3 +227,5 @@ contract MultiSigWallet {
         return result;
     }
 }
+
+contracts detail: 0xeb8b1bA5A9B1C668cBa6D964FaC3Dfc7F1bb2bab
